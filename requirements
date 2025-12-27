@@ -1,0 +1,31 @@
+# Core
+python-dotenv==1.0.1
+requests==2.32.3
+
+# AI / ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+
+# Deep Learning (optional but powerful)
+torch==2.3.1
+transformers==4.44.2
+
+# Web / API
+flask==3.0.3
+flask-cors==4.0.1
+fastapi==0.112.2
+uvicorn==0.30.6
+
+# Database
+firebase-admin==6.5.0
+sqlalchemy==2.0.32
+
+# Security & Auth
+bcrypt==4.2.0
+pyjwt==2.9.0
+
+# Utilities
+tqdm==4.66.5
+rich==13.8.1
+loguru==0.7.2
